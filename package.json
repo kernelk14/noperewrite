@@ -1,0 +1,11 @@
+{
+  "name": "noperewrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "kernelk14",
+  "license": "MIT"
+}
